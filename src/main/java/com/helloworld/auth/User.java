@@ -1,3 +1,5 @@
+package com.helloworld.auth;
+
 public class User {
     String username;
     String password;
